@@ -1,0 +1,8 @@
+venv/
+css/
+old/
+static/
+templates/
+pseudo.txt
+.idea/
+*.pyc
