@@ -2,6 +2,9 @@ import gspread
 from helpers import methods
 from testcase.testcase import TestCase
 
+# API Ex. Jira: https://sprout.atlassian.net/rest/api/latest/issue/RTB-176
+# Needs auth, check into jira API library for Python
+
 print "Google Account Login"
 email_addy = raw_input("Enter Email: ")
 passwd = raw_input("Enter Password: ")
